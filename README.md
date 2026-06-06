@@ -5,14 +5,9 @@ I am a backend developer with over 10 years of experience building and maintaini
 
 ---
 
-<div align="left">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=gabriel-sanchez-lindell&layout=compact&theme=transparent&hide_border=true&title_color=0a66c2" height="150" alt="Top Languages" />
-</div>
-
----
-
 ## Background
 
+* **Daily Operations:** My primary daily engineering work and commit history are located in private, enterprise-grade Bitbucket repositories.
 * **Backend Engineering:** 6+ years shipping production microservices using Java and Spring Boot. Oracle Certified Professional.
 * **DevOps & Infrastructure:** Transitioned legacy systems from rigid downtime windows to Continuous Deployment (CD) using Kubernetes, Kafka, and ArgoCD.
 * **Process Automation:** Built RPA systems to replace manual workflows, including an engine that processes 1,000+ booking emails daily.
