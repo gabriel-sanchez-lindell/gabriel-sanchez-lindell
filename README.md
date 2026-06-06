@@ -5,8 +5,6 @@ I am a backend developer with over 10 years of experience building and maintaini
 
 ---
 
-## 📊 GitHub Activity
-<!-- These cards automatically update based on your commits and pushes -->
 <div align="left">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=gabriel-sanchez-lindell&layout=compact&theme=transparent&hide_border=true&title_color=0a66c2" height="150" alt="Top Languages" />
 </div>
