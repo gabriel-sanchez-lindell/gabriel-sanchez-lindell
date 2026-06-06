@@ -17,7 +17,7 @@ I am a backend developer with over 10 years of experience building and maintaini
 * **DevOps & Infrastructure:** Transitioned legacy systems from rigid downtime windows to Continuous Deployment (CD) using Kubernetes, Kafka, and ArgoCD.
 * **Process Automation:** Built RPA systems to replace manual workflows, including an engine that processes 1,000+ booking emails daily.
 * **Database Management:** Extensive history with Oracle databases, resolving production incidents, and writing PL/SQL modules for high-throughput pricing systems.
-* **Communication & Remote Work:** Fluent in Spanish (Native) and English (Full Professional). Experienced in distributed environments with certifications in remote work and remote leadership. Previously authored technical reference books on software development and systems administration.
+* **Communication & Remote Work:** Fluent in Spanish (Native) and English (Full Professional). Experienced in distributed environments with certifications in remote work and remote leadership.
 
 ## What I'm Building
 
