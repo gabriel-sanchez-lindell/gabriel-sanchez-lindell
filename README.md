@@ -40,4 +40,3 @@ A local-first voice transcription and summarization app built to practice AI orc
 ## Contact
 
 * [LinkedIn](https://www.linkedin.com/in/gabriel-sanchez-lindell)
-* Email: gabriel.sanchez.lindell [at] gmail [dot] com
